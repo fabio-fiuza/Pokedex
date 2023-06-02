@@ -13,7 +13,7 @@ The project was divided into 3 parts:
 - Web app construction
 
 #### Data extraction
-In the first step, we will extract the Pokémon data contained in the https://pokemondb.net website.
+Initially we will extract the data of the Pokémon contained in the website https://pokemondb.net.
 
 #### Data cleaning 
 In this step we will identify, correct and remove errors, inconsistencies and problems in the data.
