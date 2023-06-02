@@ -5,3 +5,13 @@
 ![Last Commit Badge](https://img.shields.io/github/last-commit/fabio-fiuza/Pokedex?color=117)
 
 ## Description
+
+I'm developing a tool that allows you to search, display and compare pokemon stats.
+The project was divided into 3 parts:
+- Data extraction
+- Data cleaning
+- Web app construction
+
+
+
+
